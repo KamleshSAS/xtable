@@ -1,5 +1,5 @@
 ### xtable package
-###
+### 
 ### Produce LaTeX and HTML tables from R objects.
 ###
 ### Copyright 2000-2013 David B. Dahl <dahl@stat.byu.edu>
